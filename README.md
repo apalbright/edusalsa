@@ -13,7 +13,7 @@ run the scatter.R script
 run the stick.R script
 
 #for the grades histograms
-run the grades.R script
+run the grades_new.R script
 
 #for the heat map
 first, run the org_heatmap.R script. second, run the heatmap.R script
