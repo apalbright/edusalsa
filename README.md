@@ -16,4 +16,4 @@ run the stick.R script
 run the grades_new.R script
 
 #for the heat map
-first, run the org_heatmap.R script. second, run the heatmap.R script
+first, run the org_heatmap.R script (this generates heattable02.csv). second, run the heatmap.R script
