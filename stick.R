@@ -137,7 +137,7 @@ scale_x_continuous(trans="log",breaks = trans_breaks("log", function(x) exp(x)),
                 labels = trans_format("log", math_format(e^.x)))+
 theme(plot.title = element_text(size = 13, face = "bold", colour = "black", vjust = 0.5, hjust=0.5)) 
 
-fit<-lm(views~people, data=en3)
+fit<-lm(views~people, data=y2)
 summary(fit)
 
 multiplot(a,b)
